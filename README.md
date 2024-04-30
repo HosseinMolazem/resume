@@ -1,7 +1,7 @@
 # Hello every body. 
-# I'm Hossein. This is my  eighth project that I'm uploading to GitHub.
+# I'm Hossein. This is my  tenth project that I'm uploading to GitHub.
 # Project description:
-# This is a website project I built using HTML, Css, js and bootstrap ,jquery.
+# This is a website project I built using React.js and Tailwind.
 # this website is responsive.
 # I hope you enjoy my project!
 
